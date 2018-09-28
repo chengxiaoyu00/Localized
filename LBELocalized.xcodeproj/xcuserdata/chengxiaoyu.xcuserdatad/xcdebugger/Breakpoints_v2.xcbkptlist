@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<Bucket
+   type = "1"
+   version = "2.0">
+   <Breakpoints>
+      <BreakpointProxy
+         BreakpointExtensionID = "Xcode.Breakpoint.FileBreakpoint">
+         <BreakpointContent
+            shouldBeEnabled = "Yes"
+            ignoreCount = "0"
+            continueAfterRunningActions = "No"
+            filePath = "LBELocalized/Bundle+LBELocalized.swift"
+            timestampString = "548314253.495631"
+            startingColumnNumber = "9223372036854775807"
+            endingColumnNumber = "9223372036854775807"
+            startingLineNumber = "85"
+            endingLineNumber = "85"
+            landmarkName = "availableLocalizations()"
+            landmarkType = "7">
+            <Locations>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "static LBELocalized.LBELocalizedStr.availableLocalizations() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "LBELocalized"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chengxiaoyu/Desktop/LBELocalized/LBELocalized/LBELocalized/Bundle+LBELocalized.swift"
+                  timestampString = "548314253.5615751"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "85"
+                  endingLineNumber = "85"
+                  offsetFromSymbolStart = "77">
+               </Location>
+               <Location
+                  shouldBeEnabled = "Yes"
+                  ignoreCount = "0"
+                  continueAfterRunningActions = "No"
+                  symbolName = "closure #1 (Swift.String) -&gt; Swift.Bool in static LBELocalized.LBELocalizedStr.availableLocalizations() -&gt; Swift.Array&lt;Swift.String&gt;"
+                  moduleName = "LBELocalized"
+                  usesParentBreakpointCondition = "Yes"
+                  urlString = "file:///Users/chengxiaoyu/Desktop/LBELocalized/LBELocalized/LBELocalized/Bundle+LBELocalized.swift"
+                  timestampString = "548314253.563694"
+                  startingColumnNumber = "9223372036854775807"
+                  endingColumnNumber = "9223372036854775807"
+                  startingLineNumber = "86"
+                  endingLineNumber = "86"
+                  offsetFromSymbolStart = "40">
+               </Location>
+            </Locations>
+         </BreakpointContent>
+      </BreakpointProxy>
+   </Breakpoints>
+</Bucket>
